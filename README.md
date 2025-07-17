@@ -1,7 +1,9 @@
 
 # ProXplorer: Protein Sequence Analysis Toolbox
 ## License  
-MIT © [ZIYAN ZHUANG]
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+
+Authors: Ziyan Zhuang
 
 ## Table of Contents
 

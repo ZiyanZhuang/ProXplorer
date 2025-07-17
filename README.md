@@ -1,6 +1,7 @@
-Sure, here's an open-source README for your protein analysis tool, under the MIT License, along with a suggested name:
 
 # ProXplorer: Protein Sequence Analysis Toolbox
+## License  
+MIT © [ZIYAN ZHUANG]
 
 ## Table of Contents
 
